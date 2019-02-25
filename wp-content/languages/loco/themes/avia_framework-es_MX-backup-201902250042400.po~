@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Enfold\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-02-10 07:54+0000\n"
-"PO-Revision-Date: 2019-02-10 07:57+0000\n"
+"PO-Revision-Date: 2019-02-25 00:38+0000\n"
 "Last-Translator: yamco_arevalo <tunetworkmx@gmail.com>\n"
 "Language-Team: Español de México\n"
 "Language: es_MX\n"
@@ -91,7 +91,7 @@ msgstr ""
 #: ../enfold/framework/php/class-breadcrumb.php:123
 #: ../enfold/config-templatebuilder/avia-shortcodes/search/search.php:32
 msgid "Search"
-msgstr ""
+msgstr "Buscar"
 
 #: ../enfold/functions-enfold.php:188
 #: ../enfold/config-templatebuilder/avia-shortcodes/menu/menu.php:347
@@ -4760,7 +4760,7 @@ msgstr ""
 
 #: ../enfold/framework/php/class-breadcrumb.php:121
 msgid "404 - Page not Found"
-msgstr ""
+msgstr "404 - Pagina no encontrada"
 
 #: ../enfold/framework/php/class-breadcrumb.php:189
 #: ../enfold/framework/php/class-megamenu.php:661

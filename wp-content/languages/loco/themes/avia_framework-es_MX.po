@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Enfold\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-02-10 07:54+0000\n"
-"PO-Revision-Date: 2019-02-10 07:58+0000\n"
+"PO-Revision-Date: 2019-02-25 00:42+0000\n"
 "Last-Translator: yamco_arevalo <tunetworkmx@gmail.com>\n"
 "Language-Team: Español de México\n"
 "Language: es_MX\n"
@@ -91,7 +91,7 @@ msgstr ""
 #: ../enfold/framework/php/class-breadcrumb.php:123
 #: ../enfold/config-templatebuilder/avia-shortcodes/search/search.php:32
 msgid "Search"
-msgstr ""
+msgstr "Buscar"
 
 #: ../enfold/functions-enfold.php:188
 #: ../enfold/config-templatebuilder/avia-shortcodes/menu/menu.php:347
@@ -14056,7 +14056,7 @@ msgstr ""
 
 #: ../enfold/config-templatebuilder/avia-template-builder/config/javascript_strings.php:11
 msgid "Save"
-msgstr ""
+msgstr "Guardar"
 
 #: ../enfold/config-templatebuilder/avia-template-builder/config/javascript_strings.php:15
 msgid "Select a cell layout"
